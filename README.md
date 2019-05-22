@@ -1,4 +1,4 @@
-# easy-invoices
+# Electron-vue framwork
 
 > An electron-vue sqlite3 project
 
